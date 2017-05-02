@@ -1,0 +1,3 @@
+# SocketImDemo
+基于socket的简易通讯demo
+serverclass及serverthread为服务端代码，本例实现基于socket的简易通讯。
